@@ -3,6 +3,9 @@ The linksys_velop platform allows for presence detection by listing devices conn
 
 It was tested with a Linksys Velop WHW03v1 Firmware version 1.1.11.197735
 
+The component is a modified version of https://github.com/home-assistant/home-assistant/tree/dev/homeassistant/components/linksys_smart
+The change was required due to a Velop firmware update that started requiring credentials.
+
 ## Installation
 
 1. Using the tool of choice open the directory (folder) for your HA configuration (where you find `configuration.yaml`).
