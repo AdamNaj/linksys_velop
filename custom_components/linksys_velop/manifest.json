@@ -1,0 +1,9 @@
+{
+  "domain": "linksys_velop",
+  "name": "Linksys Velop",
+  "documentation": "https://www.home-assistant.io/components/linksys_velop",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@adamnaj"],
+  "homeassistant": "0.100.0"
+}
