@@ -1,3 +1,6 @@
 {
-    "name": "linksys_velop"
+    "name": "Linksys Velop Device Tracker",
+    "content_in_root": false,
+    "domains": ["device_tracker"],
+    "homeassistant": "0.100.0"
 }
