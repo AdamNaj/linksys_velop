@@ -41,7 +41,7 @@ device_tracker:
 Key | Type | Required | Description
 -- | -- | -- | --
 `host` | `string` | `True` | The hostname or IP address of your access point, e.g., 192.168.1.1.
-`username` | `string` | `False` | Defaults to `admin`. You should not have to customize it as Velops deveult to `admin` on login and only allow you to specify password.
+`username` | `string` | `False` | Defaults to `admin`. You should not have to customize it as Velop defaults to `admin` on login and only allow you to specify password.
 `password` | `string` | `True` | The password for your given local admin account.
 
 ## Contributions are welcome!
