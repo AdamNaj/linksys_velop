@@ -1,4 +1,4 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AdamNaj/linksys_velop?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/AdamNaj/linksys_velop?style=for-the-badge) ![GitHub Releases](https://img.shields.io/github/downloads/AdamNaj/linksys_velop/latest/total?color=purple&label=%20release%20Downloads&style=for-the-badge) ![GitHub All Releases](https://img.shields.io/github/downloads/AdamNaj/linksys_velop/total?color=orange&label=Total%20downloads&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AdamNaj/linksys_velop?style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/AdamNaj/linksys_velop?style=for-the-badge)
 
 # Linksys Velop integration for Home Assistant
 The linksys_velop platform allows for presence detection by listing devices connected to your Linksys Velop router.
