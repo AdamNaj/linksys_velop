@@ -1,6 +1,7 @@
 {
   "domain": "linksys_velop",
   "name": "Linksys Velop",
+  "version": "0.1.1",
   "documentation": "https://www.home-assistant.io/components/linksys_velop",
   "requirements": [],
   "dependencies": [],
